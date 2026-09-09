@@ -3,21 +3,14 @@
 Repository for **Deep Learning Theory and Practice**.
 
 ## Author
-
 Im Youmin
 
 ## Folders
-
 - `week01 ~ week16` : Weekly exercise notebooks
 - `practice` : Additional deep learning practice codes
 
 ## Topics
-
 - Deep Learning Theory
 - Neural Networks
 - CNN
 - Model Training and Evaluation
-
-## Figure
-
-![Deep Learning](image.png)
