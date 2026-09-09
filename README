@@ -3,6 +3,7 @@
 Repository for **Deep Learning Theory and Practice**.
 
 ## Author
+
 Im Youmin
 
 ## Folders
@@ -13,11 +14,10 @@ Im Youmin
 ## Topics
 
 - Deep Learning Theory
-- Tensor Operations
 - Neural Networks
 - CNN
 - Model Training and Evaluation
 
-## Example
+## Figure
 
 ![Deep Learning](image.png)
